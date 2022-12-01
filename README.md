@@ -1,5 +1,5 @@
 # martalotysz.github.io
 First project in HTML&CSS
 
-To see the page --> martalotysz.github.io
+To see the page in the browser paste --> martalotysz.github.io
 
