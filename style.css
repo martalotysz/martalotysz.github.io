@@ -1,0 +1,101 @@
+header{
+    background-color: rgb(25, 21, 75);
+    padding:20px;
+    text-align:center;
+    font-size: 20px;
+    font-weight: normal;
+    color:white;
+    font-family: 'Architects Daughter', cursive;
+}
+
+/*size nad family font for heading Discography*/
+h1{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 2em;
+}
+
+/*different styles for h2 i h3*/
+h2{
+    font-size: 2em;
+}
+
+h3{
+    font-weight: 400;
+}
+
+/*white letter's color for paragraphs in two dark sections*/
+.white{
+    color: white;
+    font-weight: 200;
+}
+
+/*styles for white section about discography*/
+#discography{
+    background-color: white;
+    margin:auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 300;
+}
+
+/*styles for two dark sections*/
+section{
+    background-color: rgb(25, 21, 75);
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+/*rules of displaying two colour pictures in two dark sections*/
+.pic-jazz{
+    float: right;
+    width: 40%;
+}
+
+/*rules of displaying description in two dark sections*/
+.description{
+    float: left;
+    width: 60%;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*color for h2 and h3 in first dark section*/
+.headings-night{
+    color: rgb(235, 175, 10);
+}
+
+/*color for h2 and h3 in second dark section*/
+.headings-blue{
+    color: rgb(235, 10, 10);
+}
+
+/*styles for flex container with black and white symbols*/
+.flex-container{
+    display:flex;
+    background-color:rgb(25, 21, 75) ;
+    width: 100%;
+    clear: both;
+    justify-content: center;
+}
+
+/*styles for the each black and white symbol in flex container*/
+.symbol{
+    width: 17%;
+    padding: 2%;
+    margin-top: 2%;
+    justify-content: space-evenly;
+}
+
+
+footer{
+    background-color: rgb(25, 21, 75);
+    padding:20px;
+    text-align:center;
+    font-size: 20px;
+    font-weight: normal;
+    color:white;
+    font-family: 'Architects Daughter', cursive;
+}
